@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-7h8mmp.gblive.com.br/sitemap.xml
